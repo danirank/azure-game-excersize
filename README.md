@@ -12,4 +12,4 @@ az staticwebapp create
 az staticwebapp update
 -n lektionslabb1
 --tags env[=prod] owner[=kevin]
-pontap stabil overwatch, kevin game producer, daniel by help from kev/pont deployed on his azure account. we set the budget together and we all are contributors to the web app.
+pontap stable overwatch, kevin gameproducer, daniel by help from kev/pont deployed on his azure account. we set the budget together and we all are contributors to the web app.
