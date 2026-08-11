@@ -3,7 +3,7 @@ Gruppuppgift Spel till Azure
 
 az staticwebapp create 
 -n lektionslabb1
--g RG-Daniel-Rank-64f115-DotNetCloudDeveloper-VT-Mars-Goteborg 
+-g 
 -s https://github.com/danirank/azure-game-excersize.git 
 -l swedencentral 
 -b main 
